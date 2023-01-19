@@ -25,8 +25,8 @@ def upload_and_mint():
         st.error('Oops! Seems like something went wrong. Try again!')
 
 
-st.set_page_config(page_title="Picasso - Generate & Mint NFTs with the help of AI within seconds", page_icon="🌄")
-st.title("Picasso")
+st.set_page_config(page_title="DaVinci - Generate & Mint NFTs with the help of AI within seconds", page_icon="🌄")
+st.title("DaVinci")
 
 st.subheader("Generate & Mint NFTs with the help of AI within seconds")
 
